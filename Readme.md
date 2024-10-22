@@ -298,4 +298,4 @@ spec:
 This project demonstrates how to set up Kubernetes configurations, deploy MongoDB, containerize a Node.js application, and deploy it on Kubernetes with a connection to the MongoDB database. By following these steps, you can create a scalable and manageable deployment of your Node.js application.
 ```
 
-This README provides clear instructions and a detailed walkthrough for deploying a Node.js application with MongoDB on Kubernetes. Let me know if any further customization is needed!
+This README provides clear instructions and a detailed walkthrough for deploying a Node.js application with MongoDB on Kubernetes.
