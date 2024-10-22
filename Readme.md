@@ -255,7 +255,7 @@ spec:
     spec:
       containers:
       - name: nodejs
-        image: your-username/node-web-app
+        image: your-username/node-app:latest
         ports:
         - containerPort: 3000
         envFrom:
