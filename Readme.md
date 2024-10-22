@@ -3,7 +3,8 @@
 This project demonstrates how to deploy a Node.js application on Kubernetes and connect it to a MongoDB database.
 
 
-https://github.com/user-attachments/assets/438fb7bc-db53-49a8-9991-a44459b8f0c7
+https://github.com/user-attachments/assets/37c6c999-b763-4a9b-b051-12faf7feb2ac
+
 
 
 
